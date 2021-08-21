@@ -8,11 +8,20 @@ I am currently studying Java and backend.
 - SSAFY (2021-07-07 ~  )
 <br>
 > Skills
-
-
 <div align="left">
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity">
+<img src="https://img.shields.io/badge/-C Sharp-239120?style=flat&logo=-C Sharp">
 </div> 
+
+
+
+
+
+
+
+
+
+
 <!--
 **hmhmchm/hmhmchm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
