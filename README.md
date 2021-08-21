@@ -2,7 +2,7 @@
 
 I am currently studying Java and backend.
 
-##### Experience
+#### Experience
 - Pnk solution Corporate R&D Center intern (2020-08-03 ~ 2021-02-28)
 - Pnk solution Corporate R&D Center emplopyee (2020-03-02 ~ 2021-05-21)
 - SSAFY (2021-07-07 ~  )
