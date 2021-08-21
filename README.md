@@ -6,6 +6,8 @@ I am currently studying Java and backend.
 - Pnk solution Corporate R&D Center intern (2020-08-03 ~ 2021-02-28)
 - Pnk solution Corporate R&D Center emplopyee (2020-03-02 ~ 2021-05-21)
 - SSAFY (2021-07-07 ~  )
+
+<img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 <!--
 **hmhmchm/hmhmchm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
