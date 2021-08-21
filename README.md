@@ -1,4 +1,4 @@
-### Choi Hyeon Min
+### Choi Hyeon Min :smile:
 
 I am currently studying Java and backend.
 
