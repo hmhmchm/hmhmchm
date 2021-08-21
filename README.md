@@ -2,13 +2,13 @@
 
 I am currently studying Java and backend.
 
-> Experience
+> Experience :page_facing_up:
 - Pnk solution Corporate R&D Center intern (2020-08-03 ~ 2021-02-28)
 - Pnk solution Corporate R&D Center emplopyee (2020-03-02 ~ 2021-05-21)
 - SSAFY (2021-07-07 ~  )
 <br>
 
-> Skills
+> Skills :thumbsup:
 <div align="left">
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity">
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=-Arduino"> <img src="https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp">
