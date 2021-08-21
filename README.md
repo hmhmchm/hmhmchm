@@ -11,7 +11,7 @@ I am currently studying Java and backend.
 <div align="center">
 <img src="https://img.shields.io/github/followers/hmhmchm?style=social"/>
 </div> 
-
+> Skills
 <div align="center">
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity">
 </div> 
