@@ -10,7 +10,7 @@ I am currently studying Java and backend.
 > Skills
 <div align="left">
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity">
-<img src="https://img.shields.io/badge/-CSharp-239120?style=flat&logo=CSharp">
+<img src="https://img.shields.io/badge/-C#-239120?style=flat&logo=CSharp">
 </div> 
 
 
