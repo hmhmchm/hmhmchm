@@ -2,7 +2,6 @@
 
 I am currently studying Java and backend.
 
-
 > Experience
 - Pnk solution Corporate R&D Center intern (2020-08-03 ~ 2021-02-28)
 - Pnk solution Corporate R&D Center emplopyee (2020-03-02 ~ 2021-05-21)
@@ -11,7 +10,9 @@ I am currently studying Java and backend.
 <div align="center">
 <img src="https://img.shields.io/github/followers/hmhmchm?style=social"/>
 </div> 
+
 > Skills
+
 <div align="center">
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity">
 </div> 
