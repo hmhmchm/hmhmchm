@@ -10,9 +10,9 @@ I am currently studying Java and backend.
 
 > Skills :thumbsup:
 <div align="left">
-<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity">
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"> <img src="https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring"><img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity">
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=-Arduino"> <img src="https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp">
-  <img src="https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring">
+  
 </div> 
 
 
