@@ -9,7 +9,7 @@ I am currently studying Java and backend.
 <br>
 
 > Skills :thumbsup:
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java">
  <img src="https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring">
  <img src="https://img.shields.io/badge/-Springboot-000000?style=flat&logo=Springboot">
