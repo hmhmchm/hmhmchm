@@ -7,6 +7,7 @@ I am currently studying Java and backend.
 - Pnk solution Corporate R&D Center emplopyee (2020-03-02 ~ 2021-05-21)
 - SSAFY (2021-07-07 ~  )
 - Hanghae99 (2022-03-07 ~ )
+- Golfzon Tech Academy (2022-07-25 ~ )
 <br>
 
 > Skills :thumbsup:
