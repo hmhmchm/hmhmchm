@@ -1,4 +1,5 @@
-### Choi Hyeon Min :smile:
+![snake gif](https://github.com/hmhmchm/hmhmchm/blob/output/github-contribution-grid-snake.svg)
+### Hyeonmin Choi :smile:
 
 I am currently studying Java and backend.
 
