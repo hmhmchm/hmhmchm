@@ -9,7 +9,8 @@ I am currently studying Java and backend.
 - SSAFY (2021-07-07 ~  )
 - Hanghae99 (2022-03-07 ~ )
 - Golfzon Tech Academy (2022-07-25 ~ )
-- Golfzon (2023-01-09 ~ 2024-07-23)
+- Golfzon Backend Developer (2023-01-09 ~ 2024-07-23)
+- Daechicom Founder (2024-07-23 ~)
 <br>
 
 > Skills :thumbsup:
